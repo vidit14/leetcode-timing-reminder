@@ -15,7 +15,6 @@ This ruins the point of timing yourself like in a real interview or contest.
 
 - 🕒 Pops up a **reminder modal** when you open any problem on LeetCode.
 - ❗ Blurs the screen until you click "OK".
-- ✅ Option to disable the reminder permanently if you don't want it.
 - ⚙️ Lightweight and privacy-respecting — no data tracking, no extra permissions.
 
 ---

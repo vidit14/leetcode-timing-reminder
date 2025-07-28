@@ -21,5 +21,5 @@ This ruins the point of timing yourself like in a real interview or contest.
 
 ## 🚀 How It Works
 
-When you open any LeetCode problem (`https://leetcode.com/problems/*`), it shows a reminder like:
+When you open any LeetCode problem (`https://leetcode.com/problems/*`), it shows a reminder.
 

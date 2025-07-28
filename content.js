@@ -162,7 +162,7 @@
     }
     
     // Monitor for navigation changes
-    setInterval(handleNavigation, 1000);
+    // setInterval(handleNavigation, 1000);
     
     // Listen for browser navigation
     window.addEventListener('popstate', () => {
